@@ -37,14 +37,6 @@ build/
 ### Mac OS ###
 .DS_Store
 
-# .gitignore file created for free with Tower (https://www.git-tower.com/)
-# For suggestions or improvements please contact us using support@git-tower.com
-# Generated on 2025-02-24
-# Includes: java, eclipse, maven
-
-### Universal ###
-# Common files that should be ignored in all projects
-
 # Logs
 *.log
 # Temporary files
@@ -62,25 +54,20 @@ build/
 
 ### Java ###
 # Java compiled files, build directories, and IDE files
-
 *.class
 *.ctxt
 .mtj.tmp/
 *.jar
-
 *.war
 *.nar
 *.ear
 *.zip
 *.tar.gz
-
 *.rar
 hs_err_pid*
 replay_pid*
-
 .settings/
 bin/
-
 *.launch
 .apt_generated/
 
@@ -90,8 +77,6 @@ bin/
 # Eclipse
 .metadata
 tmp/
-
-
 *.swp
 *~.nib
 local.properties
@@ -99,11 +84,9 @@ local.properties
 .loadpath
 .recommenders
 .externalToolBuilders/
-
 .buildpath
 .target
 .tern-project
-
 
 .recommenders/
 .apt_generated_test/
@@ -163,3 +146,5 @@ maven/
 maven-repository/
 .maven-cache/
 .maven_repos/
+
+
